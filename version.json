@@ -1,9 +1,9 @@
 {
-  "latestVersion": "2.0.3",
-  "releaseDate": "2026-08-25",
-  "downloadUrl": "https://github.com/ZiadMahmoud98/EI_Bridge_Update/releases/download/v2.0.3/EI_Adaptec_Client_Modern.exe",
-  "mandatory": false,
-  "changelog": [
-    "Testing Update exe"
-  ]
+    "latestVersion":  "2.0.4",
+    "mandatory":  false,
+    "releaseDate":  "2026-08-25",
+    "downloadUrl":  "https://github.com/ZiadMahmoud98/EI_Bridge_Update/releases/download/v2.0.4/EI_Adaptec_Client_Modern.exe",
+    "changelog":  [
+                      ""
+                  ]
 }
