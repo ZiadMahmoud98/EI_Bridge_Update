@@ -1,12 +1,9 @@
 {
-  "latestVersion": "2.0.1",
+  "latestVersion": "2.0.2",
   "releaseDate": "2026-08-25",
   "downloadUrl": "https://github.com/ZiadMahmoud98/EI_Bridge_Update/releases/download/v2.0.1/EI_Adaptec_Client_Modern.exe",
   "mandatory": false,
   "changelog": [
-    "✨ تحسينات شاملة لشاشات الـ Full HD و 4K وتوافق كامل مع الشاشات الصغيرة.",
-    "🚀 محرك تشخيص أخطاء الضرائب الذكي (ETA Smart Diagnostic Hub) واستعادة الفواتير فوراً.",
-    "📧 نظام إشعارات البريد الإلكتروني التلقائي لسيرفرات Office 365 و Gmail.",
-    "🔄 نظام التحديث التلقائي السحابي بنقرة واحدة (Cloud Auto-Updater)."
+    "Doubble Buffer speed up"
   ]
 }
