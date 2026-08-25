@@ -1,9 +1,14 @@
 {
-    "latestVersion":  "2.0.5",
-    "mandatory":  false,
-    "releaseDate":  "2026-08-25",
-    "downloadUrl":  "https://github.com/ZiadMahmoud98/EI_Bridge_Update/releases/download/v2.0.5/EI_Adaptec_Client_Modern.exe",
-    "changelog":  [
-                      ""
-                  ]
+    "latestVersion": "2.0.6",
+    "releaseDate": "2026-08-26",
+    "downloadUrl": "https://github.com/ZiadMahmoud98/EI_Bridge_Update/releases/download/v2.0.6/EI_Adaptec_Client_Modern.exe",
+    "mandatory": false,
+    "changelog": [
+        "🛡️ New E-Token & Security Health Center: Live USB detection, certificate validity tracking, and proactive 30-day expiry alert.",
+        "📥 New Vendor Invoices Hub: Real-time 72-hour ETA rejection countdown timer to protect invoice rejection rights.",
+        "🔒 Enhanced Access Control (RBAC): Admin-only protection for Vendor Invoices and system settings.",
+        "⚡ 1-Click Diagnostic Self-Test: Rapid dry-run cryptographic signing test with color-coded live console.",
+        "✨ UI/UX Polish: Symmetrical grid alignment, responsive margins, and performance improvements."
+    ],
+    "minRequiredVersion": "1.0.0"
 }
